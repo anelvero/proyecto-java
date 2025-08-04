@@ -1,5 +1,4 @@
 
-import javax.print.DocFlavor;
 import javax.swing.JOptionPane;
 
 /*
